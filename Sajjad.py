@@ -1003,4 +1003,4 @@ def indiaa2():
 	menu()
 	
 if __name__ == '__main__':
-    SAJJAD_abm()
+    Sajjad_abm()
